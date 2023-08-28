@@ -1,3 +1,5 @@
+/* https://leetcode.com/problems/two-sum/ */
+
 class palindrome {
     public static int Digits(int x) {
         int c=0,d=0;
